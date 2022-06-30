@@ -1,0 +1,8 @@
+/.env
+/.pytest_cache
+/__pycache__
+/email_output.html
+/main.py
+/pd_tables.py
+/templates
+/tests
